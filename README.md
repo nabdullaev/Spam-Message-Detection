@@ -1,1 +1,3 @@
 # Spam-Message-Detection
+
+This project is designed to detect spam messages by employing a comprehensive comparison of various machine learning approaches. It includes the application of classical machine learning algorithms such as ExtraTreesClassifier, RandomForest, AdaBoost, LightGBM, and CatBoost, alongside a transformer model approach by fine-tuning the BERT model. The program evaluates the efficiency of each method, providing a clear comparison of their performance in identifying spam messages. The comparative analysis aims to offer insights into the strengths and limitations of different machine learning techniques, thereby guiding the selection of the most suitable approach for spam detection tasks.
